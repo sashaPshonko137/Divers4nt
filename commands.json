@@ -1,0 +1,3575 @@
+{
+  "collideRule_-309": {
+    "team": "collideRule_-309",
+    "name": {
+      "json": {
+        "text": "collideRule_-309"
+      },
+      "text": "collideRule_-309"
+    },
+    "friendlyFire": 1,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "fruitshoot": "",
+      "InzareCola228": "",
+      "LordBebrochka": "",
+      "SuperSoma679": "",
+      "chortila2294": "",
+      "dshuifh": "",
+      "00145236": "",
+      "LAINIK": "",
+      "lordiktt": "",
+      "ssssssssssssonr": "",
+      "bebrik1945": "",
+      "Amirka_topik": "",
+      "rekrutkrut": "",
+      "minaxxw": "",
+      "pudarok13p1": "",
+      "kupiite_porsche": "",
+      "Fanik007": "",
+      "Fenix_YTTOP": "",
+      "oleg882": "",
+      "egor56567890lol": "",
+      "korolond": "",
+      "Physooo": "",
+      "Joker_Santes": "",
+      "zyklonr": "",
+      "Snake_king798": "",
+      "sasha228lol691": "",
+      "G1eniuss": "",
+      "Violetta_LOL": "",
+      "yasikk3": "",
+      "twink_DISKORD_": "",
+      "Tiomster": "",
+      "Pechenka125964": "",
+      "PidorGay777": "",
+      "Glebbka": "",
+      "Maxroddy765": "",
+      "nishiydown": "",
+      "boraca333": "",
+      "DIVERS4NT": "",
+      "_ASHbro_": "",
+      "sorinsirbu1": "",
+      "minys": "",
+      "Sakyra_12sw": "",
+      "TumblerTM": "",
+      "trixxie": ""
+    }
+  },
+  "collideRule_1596": {
+    "team": "collideRule_1596",
+    "name": {
+      "json": {
+        "text": "collideRule_1596"
+      },
+      "text": "collideRule_1596"
+    },
+    "friendlyFire": 1,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "8642": "",
+      "122134": "",
+      "129419434": "",
+      "KARDAN": "",
+      "Frederickg3": "",
+      "Soulworker_": "",
+      "Miney64": "",
+      "Vardon": "",
+      "corzi_01": "",
+      "Xaitex56r": "",
+      "Vlad22": "",
+      "Glyk_BAN": "",
+      "SCUM_sonixss": "",
+      "goodvice": "",
+      "lregredfwe": "",
+      "1eON": "",
+      "Nelveen": "",
+      "nelis45": "",
+      "1048576_2": "",
+      "Crowosisy": "",
+      "KLauncher_hbzdaj": "",
+      "SCUM_Lerka359": "",
+      "tima_oo": "",
+      "TBou_TPycuku": "",
+      "Temendrei": "",
+      "qwertyuiomap84": "",
+      "l1eeknowwww": "",
+      "bye_bye": "",
+      "Kirocka": "",
+      "YRVIV": "",
+      "Korobochka_3": "",
+      "fist": "",
+      "RICONE": "",
+      "MrDimavid": "",
+      "_KaIIaTu4_": "",
+      "pivnaykega": "",
+      "kec2345": "",
+      "Chimp_king": "",
+      "COCU_negrov": "",
+      "ruberg": "",
+      "GoldenMAX": "",
+      "hegdsa": "",
+      "AlaevAR": "",
+      "COCU_PIDOOR": "",
+      "_Sanata_S": "",
+      "endoraxgod": "",
+      "RostiksKFC": "",
+      "AbyMakaka": "",
+      "qwaszx1100": "",
+      "zahher121": "",
+      "AniaAnnonimus": "",
+      "SASKEamogus": ""
+    }
+  },
+  "SASKEamogusA": {
+    "team": "SASKEamogusA",
+    "name": {
+      "json": {
+        "text": "SASKEamogusA"
+      },
+      "text": "SASKEamogusA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "SASKEamogus": ""
+    }
+  },
+  "rubergA": {
+    "team": "rubergA",
+    "name": {
+      "json": {
+        "text": "rubergA"
+      },
+      "text": "rubergA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "ruberg": ""
+    }
+  },
+  "RICONEA": {
+    "team": "RICONEA",
+    "name": {
+      "json": {
+        "text": "RICONEA"
+      },
+      "text": "RICONEA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "RICONE": ""
+    }
+  },
+  "GoldenMAXA": {
+    "team": "GoldenMAXA",
+    "name": {
+      "json": {
+        "text": "GoldenMAXA"
+      },
+      "text": "GoldenMAXA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "GoldenMAX": ""
+    }
+  },
+  "_Sanata_SA": {
+    "team": "_Sanata_SA",
+    "name": {
+      "json": {
+        "text": "_Sanata_SA"
+      },
+      "text": "_Sanata_SA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "_Sanata_S": ""
+    }
+  },
+  "Miney64A": {
+    "team": "Miney64A",
+    "name": {
+      "json": {
+        "text": "Miney64A"
+      },
+      "text": "Miney64A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "Miney64": ""
+    }
+  },
+  "fistA": {
+    "team": "fistA",
+    "name": {
+      "json": {
+        "text": "fistA"
+      },
+      "text": "fistA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "fist": ""
+    }
+  },
+  "Korobochka_3A": {
+    "team": "Korobochka_3A",
+    "name": {
+      "json": {
+        "text": "Korobochka_3A"
+      },
+      "text": "Korobochka_3A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "Korobochka_3": ""
+    }
+  },
+  "Chimp_kingA": {
+    "team": "Chimp_kingA",
+    "name": {
+      "json": {
+        "text": "Chimp_kingA"
+      },
+      "text": "Chimp_kingA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "Chimp_king": ""
+    }
+  },
+  "qwertyuiomap84A": {
+    "team": "qwertyuiomap84A",
+    "name": {
+      "json": {
+        "text": "qwertyuiomap84A"
+      },
+      "text": "qwertyuiomap84A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "qwertyuiomap84": ""
+    }
+  },
+  "_KaIIaTu4_A": {
+    "team": "_KaIIaTu4_A",
+    "name": {
+      "json": {
+        "text": "_KaIIaTu4_A"
+      },
+      "text": "_KaIIaTu4_A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "_KaIIaTu4_": ""
+    }
+  },
+  "bye_byeA": {
+    "team": "bye_byeA",
+    "name": {
+      "json": {
+        "text": "bye_byeA"
+      },
+      "text": "bye_byeA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "bye_bye": ""
+    }
+  },
+  "lregredfweA": {
+    "team": "lregredfweA",
+    "name": {
+      "json": {
+        "text": "lregredfweA"
+      },
+      "text": "lregredfweA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "lregredfwe": ""
+    }
+  },
+  "COCU_PIDOORA": {
+    "team": "COCU_PIDOORA",
+    "name": {
+      "json": {
+        "text": "COCU_PIDOORA"
+      },
+      "text": "COCU_PIDOORA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "COCU_PIDOOR": ""
+    }
+  },
+  "8642A": {
+    "team": "8642A",
+    "name": {
+      "json": {
+        "text": "8642A"
+      },
+      "text": "8642A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "8642": ""
+    }
+  },
+  "COCU_negrovA": {
+    "team": "COCU_negrovA",
+    "name": {
+      "json": {
+        "text": "COCU_negrovA"
+      },
+      "text": "COCU_negrovA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "COCU_negrov": ""
+    }
+  },
+  "corzi_01A": {
+    "team": "corzi_01A",
+    "name": {
+      "json": {
+        "text": "corzi_01A"
+      },
+      "text": "corzi_01A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "corzi_01": ""
+    }
+  },
+  "hegdsaA": {
+    "team": "hegdsaA",
+    "name": {
+      "json": {
+        "text": "hegdsaA"
+      },
+      "text": "hegdsaA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "hegdsa": ""
+    }
+  },
+  "1048576_2A": {
+    "team": "1048576_2A",
+    "name": {
+      "json": {
+        "text": "1048576_2A"
+      },
+      "text": "1048576_2A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "1048576_2": ""
+    }
+  },
+  "YRVIVA": {
+    "team": "YRVIVA",
+    "name": {
+      "json": {
+        "text": "YRVIVA"
+      },
+      "text": "YRVIVA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "YRVIV": ""
+    }
+  },
+  "Frederickg3A": {
+    "team": "Frederickg3A",
+    "name": {
+      "json": {
+        "text": "Frederickg3A"
+      },
+      "text": "Frederickg3A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "Frederickg3": ""
+    }
+  },
+  "Soulworker_A": {
+    "team": "Soulworker_A",
+    "name": {
+      "json": {
+        "text": "Soulworker_A"
+      },
+      "text": "Soulworker_A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "Soulworker_": ""
+    }
+  },
+  "KLauncher_hbzdaA": {
+    "team": "KLauncher_hbzdaA",
+    "name": {
+      "json": {
+        "text": "KLauncher_hbzdaA"
+      },
+      "text": "KLauncher_hbzdaA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "KLauncher_hbzdaj": ""
+    }
+  },
+  "CrowosisyA": {
+    "team": "CrowosisyA",
+    "name": {
+      "json": {
+        "text": "CrowosisyA"
+      },
+      "text": "CrowosisyA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "Crowosisy": ""
+    }
+  },
+  "Vlad22A": {
+    "team": "Vlad22A",
+    "name": {
+      "json": {
+        "text": "Vlad22A"
+      },
+      "text": "Vlad22A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "Vlad22": ""
+    }
+  },
+  "KirockaA": {
+    "team": "KirockaA",
+    "name": {
+      "json": {
+        "text": "KirockaA"
+      },
+      "text": "KirockaA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "Kirocka": ""
+    }
+  },
+  "Glyk_BANA": {
+    "team": "Glyk_BANA",
+    "name": {
+      "json": {
+        "text": "Glyk_BANA"
+      },
+      "text": "Glyk_BANA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "Glyk_BAN": ""
+    }
+  },
+  "kec2345A": {
+    "team": "kec2345A",
+    "name": {
+      "json": {
+        "text": "kec2345A"
+      },
+      "text": "kec2345A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "kec2345": ""
+    }
+  },
+  "MrDimavidA": {
+    "team": "MrDimavidA",
+    "name": {
+      "json": {
+        "text": "MrDimavidA"
+      },
+      "text": "MrDimavidA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "MrDimavid": ""
+    }
+  },
+  "122134A": {
+    "team": "122134A",
+    "name": {
+      "json": {
+        "text": "122134A"
+      },
+      "text": "122134A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "122134": ""
+    }
+  },
+  "TemendreiA": {
+    "team": "TemendreiA",
+    "name": {
+      "json": {
+        "text": "TemendreiA"
+      },
+      "text": "TemendreiA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "Temendrei": ""
+    }
+  },
+  "nelis45A": {
+    "team": "nelis45A",
+    "name": {
+      "json": {
+        "text": "nelis45A"
+      },
+      "text": "nelis45A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "nelis45": ""
+    }
+  },
+  "zahher121A": {
+    "team": "zahher121A",
+    "name": {
+      "json": {
+        "text": "zahher121A"
+      },
+      "text": "zahher121A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "zahher121": ""
+    }
+  },
+  "pivnaykegaA": {
+    "team": "pivnaykegaA",
+    "name": {
+      "json": {
+        "text": "pivnaykegaA"
+      },
+      "text": "pivnaykegaA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "pivnaykega": ""
+    }
+  },
+  "SCUM_Lerka359A": {
+    "team": "SCUM_Lerka359A",
+    "name": {
+      "json": {
+        "text": "SCUM_Lerka359A"
+      },
+      "text": "SCUM_Lerka359A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "SCUM_Lerka359": ""
+    }
+  },
+  "RostiksKFCA": {
+    "team": "RostiksKFCA",
+    "name": {
+      "json": {
+        "text": "RostiksKFCA"
+      },
+      "text": "RostiksKFCA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "RostiksKFC": ""
+    }
+  },
+  "SCUM_sonixssA": {
+    "team": "SCUM_sonixssA",
+    "name": {
+      "json": {
+        "text": "SCUM_sonixssA"
+      },
+      "text": "SCUM_sonixssA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "SCUM_sonixss": ""
+    }
+  },
+  "endoraxgodA": {
+    "team": "endoraxgodA",
+    "name": {
+      "json": {
+        "text": "endoraxgodA"
+      },
+      "text": "endoraxgodA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "endoraxgod": ""
+    }
+  },
+  "KARDANA": {
+    "team": "KARDANA",
+    "name": {
+      "json": {
+        "text": "KARDANA"
+      },
+      "text": "KARDANA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "KARDAN": ""
+    }
+  },
+  "tima_ooA": {
+    "team": "tima_ooA",
+    "name": {
+      "json": {
+        "text": "tima_ooA"
+      },
+      "text": "tima_ooA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "tima_oo": ""
+    }
+  },
+  "goodviceA": {
+    "team": "goodviceA",
+    "name": {
+      "json": {
+        "text": "goodviceA"
+      },
+      "text": "goodviceA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "goodvice": ""
+    }
+  },
+  "AlaevARA": {
+    "team": "AlaevARA",
+    "name": {
+      "json": {
+        "text": "AlaevARA"
+      },
+      "text": "AlaevARA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "AlaevAR": ""
+    }
+  },
+  "VardonA": {
+    "team": "VardonA",
+    "name": {
+      "json": {
+        "text": "VardonA"
+      },
+      "text": "VardonA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "Vardon": ""
+    }
+  },
+  "qwaszx1100A": {
+    "team": "qwaszx1100A",
+    "name": {
+      "json": {
+        "text": "qwaszx1100A"
+      },
+      "text": "qwaszx1100A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "qwaszx1100": ""
+    }
+  },
+  "Xaitex56rA": {
+    "team": "Xaitex56rA",
+    "name": {
+      "json": {
+        "text": "Xaitex56rA"
+      },
+      "text": "Xaitex56rA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "Xaitex56r": ""
+    }
+  },
+  "129419434A": {
+    "team": "129419434A",
+    "name": {
+      "json": {
+        "text": "129419434A"
+      },
+      "text": "129419434A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "129419434": ""
+    }
+  },
+  "TBou_TPycukuA": {
+    "team": "TBou_TPycukuA",
+    "name": {
+      "json": {
+        "text": "TBou_TPycukuA"
+      },
+      "text": "TBou_TPycukuA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "TBou_TPycuku": ""
+    }
+  },
+  "1eONA": {
+    "team": "1eONA",
+    "name": {
+      "json": {
+        "text": "1eONA"
+      },
+      "text": "1eONA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "1eON": ""
+    }
+  },
+  "AbyMakakaA": {
+    "team": "AbyMakakaA",
+    "name": {
+      "json": {
+        "text": "AbyMakakaA"
+      },
+      "text": "AbyMakakaA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "AbyMakaka": ""
+    }
+  },
+  "NelveenA": {
+    "team": "NelveenA",
+    "name": {
+      "json": {
+        "text": "NelveenA"
+      },
+      "text": "NelveenA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "Nelveen": ""
+    }
+  },
+  "l1eeknowwwwA": {
+    "team": "l1eeknowwwwA",
+    "name": {
+      "json": {
+        "text": "l1eeknowwwwA"
+      },
+      "text": "l1eeknowwwwA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "l1eeknowwww": ""
+    }
+  },
+  "AniaAnnonimusA": {
+    "team": "AniaAnnonimusA",
+    "name": {
+      "json": {
+        "text": "AniaAnnonimusA"
+      },
+      "text": "AniaAnnonimusA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "AniaAnnonimus": ""
+    }
+  },
+  "DIVERS4NTA": {
+    "team": "DIVERS4NTA",
+    "name": {
+      "json": {
+        "text": "DIVERS4NTA"
+      },
+      "text": "DIVERS4NTA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "DIVERS4NT": ""
+    }
+  },
+  "TAB-SB-TM-1": {
+    "team": "TAB-SB-TM-1",
+    "name": {
+      "json": {
+        "text": "TAB-SB-TM-1"
+      },
+      "text": "TAB-SB-TM-1"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "never",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": " Скрыть: /boar"
+      },
+      "text": " Скрыть: /boar",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": "d"
+      },
+      "text": "d",
+      "color": "gray"
+    },
+    "membersMap": {
+      "§0§1§r": ""
+    }
+  },
+  "TAB-SB-TM-2": {
+    "team": "TAB-SB-TM-2",
+    "name": {
+      "json": {
+        "text": "TAB-SB-TM-2"
+      },
+      "text": "TAB-SB-TM-2"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "never",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "text": " "
+      },
+      "text": " "
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§0§2§r": ""
+    }
+  },
+  "TAB-SB-TM-3": {
+    "team": "TAB-SB-TM-3",
+    "name": {
+      "json": {
+        "text": "TAB-SB-TM-3"
+      },
+      "text": "TAB-SB-TM-3"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "never",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "white",
+        "text": " Ник: ",
+        "extra": [
+          {
+            "color": "yellow",
+            "text": "DIVERS"
+          }
+        ]
+      },
+      "text": " Ник: ",
+      "extra": [
+        {
+          "json": {
+            "color": "yellow",
+            "text": "DIVERS"
+          },
+          "text": "DIVERS",
+          "color": "yellow"
+        }
+      ],
+      "color": "white"
+    },
+    "suffix": {
+      "json": {
+        "color": "yellow",
+        "text": "4NT"
+      },
+      "text": "4NT",
+      "color": "yellow"
+    },
+    "membersMap": {
+      "§0§3§r": ""
+    }
+  },
+  "TAB-SB-TM-4": {
+    "team": "TAB-SB-TM-4",
+    "name": {
+      "json": {
+        "text": "TAB-SB-TM-4"
+      },
+      "text": "TAB-SB-TM-4"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "never",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "text": " "
+      },
+      "text": " "
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§0§4§r": ""
+    }
+  },
+  "TAB-SB-TM-5": {
+    "team": "TAB-SB-TM-5",
+    "name": {
+      "json": {
+        "text": "TAB-SB-TM-5"
+      },
+      "text": "TAB-SB-TM-5"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "never",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "white",
+        "text": " Убийств: ",
+        "extra": [
+          {
+            "color": "yellow",
+            "text": "7"
+          }
+        ]
+      },
+      "text": " Убийств: ",
+      "extra": [
+        {
+          "json": {
+            "color": "yellow",
+            "text": "7"
+          },
+          "text": "7",
+          "color": "yellow"
+        }
+      ],
+      "color": "white"
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§0§5§r": ""
+    }
+  },
+  "TAB-SB-TM-6": {
+    "team": "TAB-SB-TM-6",
+    "name": {
+      "json": {
+        "text": "TAB-SB-TM-6"
+      },
+      "text": "TAB-SB-TM-6"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "never",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "white",
+        "text": " Смертей: ",
+        "extra": [
+          {
+            "color": "yellow",
+            "text": "20"
+          }
+        ]
+      },
+      "text": " Смертей: ",
+      "extra": [
+        {
+          "json": {
+            "color": "yellow",
+            "text": "20"
+          },
+          "text": "20",
+          "color": "yellow"
+        }
+      ],
+      "color": "white"
+    },
+    "suffix": {
+      "json": {
+        "color": "yellow",
+        "text": "8"
+      },
+      "text": "8",
+      "color": "yellow"
+    },
+    "membersMap": {
+      "§0§6§r": ""
+    }
+  },
+  "TAB-SB-TM-7": {
+    "team": "TAB-SB-TM-7",
+    "name": {
+      "json": {
+        "text": "TAB-SB-TM-7"
+      },
+      "text": "TAB-SB-TM-7"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "never",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "white",
+        "text": " K/D: ",
+        "extra": [
+          {
+            "color": "yellow",
+            "text": "0"
+          }
+        ]
+      },
+      "text": " K/D: ",
+      "extra": [
+        {
+          "json": {
+            "color": "yellow",
+            "text": "0"
+          },
+          "text": "0",
+          "color": "yellow"
+        }
+      ],
+      "color": "white"
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§0§7§r": ""
+    }
+  },
+  "TAB-SB-TM-8": {
+    "team": "TAB-SB-TM-8",
+    "name": {
+      "json": {
+        "text": "TAB-SB-TM-8"
+      },
+      "text": "TAB-SB-TM-8"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "never",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "white",
+        "text": " Игр: ",
+        "extra": [
+          {
+            "color": "yellow",
+            "text": "320"
+          }
+        ]
+      },
+      "text": " Игр: ",
+      "extra": [
+        {
+          "json": {
+            "color": "yellow",
+            "text": "320"
+          },
+          "text": "320",
+          "color": "yellow"
+        }
+      ],
+      "color": "white"
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§0§8§r": ""
+    }
+  },
+  "TAB-SB-TM-9": {
+    "team": "TAB-SB-TM-9",
+    "name": {
+      "json": {
+        "text": "TAB-SB-TM-9"
+      },
+      "text": "TAB-SB-TM-9"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "never",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "white",
+        "text": " Побед: ",
+        "extra": [
+          {
+            "color": "yellow",
+            "text": "4"
+          }
+        ]
+      },
+      "text": " Побед: ",
+      "extra": [
+        {
+          "json": {
+            "color": "yellow",
+            "text": "4"
+          },
+          "text": "4",
+          "color": "yellow"
+        }
+      ],
+      "color": "white"
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§0§9§r": ""
+    }
+  },
+  "TAB-SB-TM-10": {
+    "team": "TAB-SB-TM-10",
+    "name": {
+      "json": {
+        "text": "TAB-SB-TM-10"
+      },
+      "text": "TAB-SB-TM-10"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "never",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "white",
+        "text": " Винрейт: ",
+        "extra": [
+          {
+            "color": "yellow",
+            "text": "1%"
+          }
+        ]
+      },
+      "text": " Винрейт: ",
+      "extra": [
+        {
+          "json": {
+            "color": "yellow",
+            "text": "1%"
+          },
+          "text": "1%",
+          "color": "yellow"
+        }
+      ],
+      "color": "white"
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§1§0§r": ""
+    }
+  },
+  "TAB-SB-TM-11": {
+    "team": "TAB-SB-TM-11",
+    "name": {
+      "json": {
+        "text": "TAB-SB-TM-11"
+      },
+      "text": "TAB-SB-TM-11"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "never",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "white",
+        "text": " Слом. кровате"
+      },
+      "text": " Слом. кровате",
+      "color": "white"
+    },
+    "suffix": {
+      "json": {
+        "color": "white",
+        "text": "й: ",
+        "extra": [
+          {
+            "color": "yellow",
+            "text": "0"
+          }
+        ]
+      },
+      "text": "й: ",
+      "extra": [
+        {
+          "json": {
+            "color": "yellow",
+            "text": "0"
+          },
+          "text": "0",
+          "color": "yellow"
+        }
+      ],
+      "color": "white"
+    },
+    "membersMap": {
+      "§1§1§r": ""
+    }
+  },
+  "TAB-SB-TM-12": {
+    "team": "TAB-SB-TM-12",
+    "name": {
+      "json": {
+        "text": "TAB-SB-TM-12"
+      },
+      "text": "TAB-SB-TM-12"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "never",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "text": " "
+      },
+      "text": " "
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§1§2§r": ""
+    }
+  },
+  "TAB-SB-TM-13": {
+    "team": "TAB-SB-TM-13",
+    "name": {
+      "json": {
+        "text": "TAB-SB-TM-13"
+      },
+      "text": "TAB-SB-TM-13"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "yellow",
+        "text": "www.musterywor"
+      },
+      "text": "www.musterywor",
+      "color": "yellow"
+    },
+    "suffix": {
+      "json": {
+        "color": "yellow",
+        "text": "ld.net"
+      },
+      "text": "ld.net",
+      "color": "yellow"
+    },
+    "membersMap": {
+      "§1§3§r": ""
+    }
+  },
+  "youpupA": {
+    "team": "youpupA",
+    "name": {
+      "json": {
+        "text": "youpupA"
+      },
+      "text": "youpupA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "youpup": ""
+    }
+  },
+  "Hadanu22A": {
+    "team": "Hadanu22A",
+    "name": {
+      "json": {
+        "text": "Hadanu22A"
+      },
+      "text": "Hadanu22A"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "Hadanu22": ""
+    }
+  },
+  "popamyravlaA": {
+    "team": "popamyravlaA",
+    "name": {
+      "json": {
+        "text": "popamyravlaA"
+      },
+      "text": "popamyravlaA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "popamyravla": ""
+    }
+  },
+  "abcfdtgfA": {
+    "team": "abcfdtgfA",
+    "name": {
+      "json": {
+        "text": "abcfdtgfA"
+      },
+      "text": "abcfdtgfA"
+    },
+    "friendlyFire": 0,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "membersMap": {
+      "abcfdtgf": ""
+    }
+  },
+  "3yellow": {
+    "team": "3yellow",
+    "name": {
+      "json": {
+        "text": "3yellow"
+      },
+      "text": "3yellow"
+    },
+    "friendlyFire": 2,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "yellow",
+        "text": "⚑ "
+      },
+      "text": "⚑ ",
+      "color": "yellow"
+    },
+    "suffix": {
+      "json": {
+        "strikethrough": false,
+        "obfuscated": false,
+        "underlined": false,
+        "italic": false,
+        "color": "reset",
+        "bold": false,
+        "text": ""
+      },
+      "text": "",
+      "bold": false,
+      "italic": false,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false,
+      "color": null,
+      "reset": true
+    },
+    "membersMap": {
+      "DIVERS4NT": "",
+      "esmira2013": "",
+      "fgfg": ""
+    }
+  },
+  "1blue": {
+    "team": "1blue",
+    "name": {
+      "json": {
+        "text": "1blue"
+      },
+      "text": "1blue"
+    },
+    "friendlyFire": 2,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "blue",
+        "text": "⚑ "
+      },
+      "text": "⚑ ",
+      "color": "blue"
+    },
+    "suffix": {
+      "json": {
+        "strikethrough": false,
+        "obfuscated": false,
+        "underlined": false,
+        "italic": false,
+        "color": "reset",
+        "bold": false,
+        "text": ""
+      },
+      "text": "",
+      "bold": false,
+      "italic": false,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false,
+      "color": null,
+      "reset": true
+    },
+    "membersMap": {
+      "ksushkaEGG": "",
+      "zevsoid137": "",
+      "dadaf0n228": ""
+    }
+  },
+  "2green": {
+    "team": "2green",
+    "name": {
+      "json": {
+        "text": "2green"
+      },
+      "text": "2green"
+    },
+    "friendlyFire": 2,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "green",
+        "text": "⚑ "
+      },
+      "text": "⚑ ",
+      "color": "green"
+    },
+    "suffix": {
+      "json": {
+        "strikethrough": false,
+        "obfuscated": false,
+        "underlined": false,
+        "italic": false,
+        "color": "reset",
+        "bold": false,
+        "text": ""
+      },
+      "text": "",
+      "bold": false,
+      "italic": false,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false,
+      "color": null,
+      "reset": true
+    },
+    "membersMap": {
+      "Vampir_101": "",
+      "unkazavr": ""
+    }
+  },
+  "0red": {
+    "team": "0red",
+    "name": {
+      "json": {
+        "text": "0red"
+      },
+      "text": "0red"
+    },
+    "friendlyFire": 2,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "red",
+        "text": "⚑ "
+      },
+      "text": "⚑ ",
+      "color": "red"
+    },
+    "suffix": {
+      "json": {
+        "strikethrough": false,
+        "obfuscated": false,
+        "underlined": false,
+        "italic": false,
+        "color": "reset",
+        "bold": false,
+        "text": ""
+      },
+      "text": "",
+      "bold": false,
+      "italic": false,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false,
+      "color": null,
+      "reset": true
+    },
+    "membersMap": {
+      "OrangeCat1028": ""
+    }
+  },
+  "zspecs": {
+    "team": "zspecs",
+    "name": {
+      "json": {
+        "text": "zspecs"
+      },
+      "text": "zspecs"
+    },
+    "friendlyFire": 2,
+    "nameTagVisibility": "hideForOwnTeam",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "dark_gray",
+        "text": "[",
+        "extra": [
+          {
+            "color": "dark_red",
+            "text": "✖",
+            "extra": [
+              {
+                "color": "dark_gray",
+                "text": "] ",
+                "extra": [
+                  {
+                    "color": "gray",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "text": "[",
+      "extra": [
+        {
+          "json": {
+            "color": "dark_red",
+            "text": "✖",
+            "extra": [
+              {
+                "color": "dark_gray",
+                "text": "] ",
+                "extra": [
+                  {
+                    "color": "gray",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          },
+          "text": "✖",
+          "extra": [
+            {
+              "json": {
+                "color": "dark_gray",
+                "text": "] ",
+                "extra": [
+                  {
+                    "color": "gray",
+                    "text": " "
+                  }
+                ]
+              },
+              "text": "] ",
+              "extra": [
+                {
+                  "json": {
+                    "color": "gray",
+                    "text": " "
+                  },
+                  "text": " ",
+                  "color": "gray"
+                }
+              ],
+              "color": "dark_gray"
+            }
+          ],
+          "color": "dark_red"
+        }
+      ],
+      "color": "dark_gray"
+    },
+    "suffix": {
+      "json": {
+        "strikethrough": false,
+        "obfuscated": false,
+        "underlined": false,
+        "italic": false,
+        "color": "reset",
+        "bold": false,
+        "text": ""
+      },
+      "text": "",
+      "bold": false,
+      "italic": false,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false,
+      "color": null,
+      "reset": true
+    },
+    "membersMap": {}
+  },
+  "line0": {
+    "team": "line0",
+    "name": {
+      "json": {
+        "text": "line0"
+      },
+      "text": "line0"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "yellow",
+        "text": "www.musterywor"
+      },
+      "text": "www.musterywor",
+      "color": "yellow"
+    },
+    "suffix": {
+      "json": {
+        "color": "yellow",
+        "text": "ld.net"
+      },
+      "text": "ld.net",
+      "color": "yellow"
+    },
+    "membersMap": {
+      "§0§r": ""
+    }
+  },
+  "line1": {
+    "team": "line1",
+    "name": {
+      "json": {
+        "text": "line1"
+      },
+      "text": "line1"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§1§r": ""
+    }
+  },
+  "line2": {
+    "team": "line2",
+    "name": {
+      "json": {
+        "text": "line2"
+      },
+      "text": "line2"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "red",
+        "text": "✗ ",
+        "extra": [
+          {
+            "color": "white",
+            "text": "Сломано кр"
+          }
+        ]
+      },
+      "text": "✗ ",
+      "extra": [
+        {
+          "json": {
+            "color": "white",
+            "text": "Сломано кр"
+          },
+          "text": "Сломано кр",
+          "color": "white"
+        }
+      ],
+      "color": "red"
+    },
+    "suffix": {
+      "json": {
+        "color": "white",
+        "text": "оватей: ",
+        "extra": [
+          {
+            "color": "red",
+            "text": "0"
+          }
+        ]
+      },
+      "text": "оватей: ",
+      "extra": [
+        {
+          "json": {
+            "color": "red",
+            "text": "0"
+          },
+          "text": "0",
+          "color": "red"
+        }
+      ],
+      "color": "white"
+    },
+    "membersMap": {
+      "§2§r": ""
+    }
+  },
+  "line3": {
+    "team": "line3",
+    "name": {
+      "json": {
+        "text": "line3"
+      },
+      "text": "line3"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "green",
+        "text": "⚔ ",
+        "extra": [
+          {
+            "color": "white",
+            "text": "Финальных "
+          }
+        ]
+      },
+      "text": "⚔ ",
+      "extra": [
+        {
+          "json": {
+            "color": "white",
+            "text": "Финальных "
+          },
+          "text": "Финальных ",
+          "color": "white"
+        }
+      ],
+      "color": "green"
+    },
+    "suffix": {
+      "json": {
+        "color": "white",
+        "text": "убийств: ",
+        "extra": [
+          {
+            "color": "green",
+            "text": "0"
+          }
+        ]
+      },
+      "text": "убийств: ",
+      "extra": [
+        {
+          "json": {
+            "color": "green",
+            "text": "0"
+          },
+          "text": "0",
+          "color": "green"
+        }
+      ],
+      "color": "white"
+    },
+    "membersMap": {
+      "§3§r": ""
+    }
+  },
+  "line4": {
+    "team": "line4",
+    "name": {
+      "json": {
+        "text": "line4"
+      },
+      "text": "line4"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "yellow",
+        "text": "⚔ ",
+        "extra": [
+          {
+            "color": "white",
+            "text": "Убийств: "
+          }
+        ]
+      },
+      "text": "⚔ ",
+      "extra": [
+        {
+          "json": {
+            "color": "white",
+            "text": "Убийств: "
+          },
+          "text": "Убийств: ",
+          "color": "white"
+        }
+      ],
+      "color": "yellow"
+    },
+    "suffix": {
+      "json": {
+        "color": "yellow",
+        "text": "0"
+      },
+      "text": "0",
+      "color": "yellow"
+    },
+    "membersMap": {
+      "§4§r": ""
+    }
+  },
+  "line5": {
+    "team": "line5",
+    "name": {
+      "json": {
+        "text": "line5"
+      },
+      "text": "line5"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§5§r": ""
+    }
+  },
+  "line6": {
+    "team": "line6",
+    "name": {
+      "json": {
+        "text": "line6"
+      },
+      "text": "line6"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "text": " ",
+        "extra": [
+          {
+            "color": "red",
+            "text": "⚑ ",
+            "extra": [
+              {
+                "color": "white",
+                "text": "Красные "
+              }
+            ]
+          }
+        ]
+      },
+      "text": " ",
+      "extra": [
+        {
+          "json": {
+            "color": "red",
+            "text": "⚑ ",
+            "extra": [
+              {
+                "color": "white",
+                "text": "Красные "
+              }
+            ]
+          },
+          "text": "⚑ ",
+          "extra": [
+            {
+              "json": {
+                "color": "white",
+                "text": "Красные "
+              },
+              "text": "Красные ",
+              "color": "white"
+            }
+          ],
+          "color": "red"
+        }
+      ]
+    },
+    "suffix": {
+      "json": {
+        "color": "green",
+        "text": "✔"
+      },
+      "text": "✔",
+      "color": "green"
+    },
+    "membersMap": {
+      "§6§r": ""
+    }
+  },
+  "line7": {
+    "team": "line7",
+    "name": {
+      "json": {
+        "text": "line7"
+      },
+      "text": "line7"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "text": " ",
+        "extra": [
+          {
+            "color": "green",
+            "text": "⚑ ",
+            "extra": [
+              {
+                "color": "white",
+                "text": "Зеленые "
+              }
+            ]
+          }
+        ]
+      },
+      "text": " ",
+      "extra": [
+        {
+          "json": {
+            "color": "green",
+            "text": "⚑ ",
+            "extra": [
+              {
+                "color": "white",
+                "text": "Зеленые "
+              }
+            ]
+          },
+          "text": "⚑ ",
+          "extra": [
+            {
+              "json": {
+                "color": "white",
+                "text": "Зеленые "
+              },
+              "text": "Зеленые ",
+              "color": "white"
+            }
+          ],
+          "color": "green"
+        }
+      ]
+    },
+    "suffix": {
+      "json": {
+        "color": "green",
+        "text": "✔"
+      },
+      "text": "✔",
+      "color": "green"
+    },
+    "membersMap": {
+      "§7§r": ""
+    }
+  },
+  "line8": {
+    "team": "line8",
+    "name": {
+      "json": {
+        "text": "line8"
+      },
+      "text": "line8"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "text": " ",
+        "extra": [
+          {
+            "color": "blue",
+            "text": "⚑ ",
+            "extra": [
+              {
+                "color": "white",
+                "text": "Синие ",
+                "extra": [
+                  {
+                    "color": "green",
+                    "text": "✔"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "text": " ",
+      "extra": [
+        {
+          "json": {
+            "color": "blue",
+            "text": "⚑ ",
+            "extra": [
+              {
+                "color": "white",
+                "text": "Синие ",
+                "extra": [
+                  {
+                    "color": "green",
+                    "text": "✔"
+                  }
+                ]
+              }
+            ]
+          },
+          "text": "⚑ ",
+          "extra": [
+            {
+              "json": {
+                "color": "white",
+                "text": "Синие ",
+                "extra": [
+                  {
+                    "color": "green",
+                    "text": "✔"
+                  }
+                ]
+              },
+              "text": "Синие ",
+              "extra": [
+                {
+                  "json": {
+                    "color": "green",
+                    "text": "✔"
+                  },
+                  "text": "✔",
+                  "color": "green"
+                }
+              ],
+              "color": "white"
+            }
+          ],
+          "color": "blue"
+        }
+      ]
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§8§r": ""
+    }
+  },
+  "line9": {
+    "team": "line9",
+    "name": {
+      "json": {
+        "text": "line9"
+      },
+      "text": "line9"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "text": " ",
+        "extra": [
+          {
+            "color": "yellow",
+            "text": "⚑ ",
+            "extra": [
+              {
+                "color": "white",
+                "text": "Желтые ",
+                "extra": [
+                  {
+                    "color": "green",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "text": " ",
+      "extra": [
+        {
+          "json": {
+            "color": "yellow",
+            "text": "⚑ ",
+            "extra": [
+              {
+                "color": "white",
+                "text": "Желтые ",
+                "extra": [
+                  {
+                    "color": "green",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          },
+          "text": "⚑ ",
+          "extra": [
+            {
+              "json": {
+                "color": "white",
+                "text": "Желтые ",
+                "extra": [
+                  {
+                    "color": "green",
+                    "text": ""
+                  }
+                ]
+              },
+              "text": "Желтые ",
+              "extra": [
+                {
+                  "json": {
+                    "color": "green",
+                    "text": ""
+                  },
+                  "text": "",
+                  "color": "green"
+                }
+              ],
+              "color": "white"
+            }
+          ],
+          "color": "yellow"
+        }
+      ]
+    },
+    "suffix": {
+      "json": {
+        "color": "green",
+        "text": "✔",
+        "extra": [
+          {
+            "color": "gray",
+            "text": " (Вы)"
+          }
+        ]
+      },
+      "text": "✔",
+      "extra": [
+        {
+          "json": {
+            "color": "gray",
+            "text": " (Вы)"
+          },
+          "text": " (Вы)",
+          "color": "gray"
+        }
+      ],
+      "color": "green"
+    },
+    "membersMap": {
+      "§9§r": ""
+    }
+  },
+  "line10": {
+    "team": "line10",
+    "name": {
+      "json": {
+        "text": "line10"
+      },
+      "text": "line10"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§a§r": ""
+    }
+  },
+  "line11": {
+    "team": "line11",
+    "name": {
+      "json": {
+        "text": "line11"
+      },
+      "text": "line11"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§b§r": ""
+    }
+  },
+  "line12": {
+    "team": "line12",
+    "name": {
+      "json": {
+        "text": "line12"
+      },
+      "text": "line12"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§c§r": ""
+    }
+  },
+  "line13": {
+    "team": "line13",
+    "name": {
+      "json": {
+        "text": "line13"
+      },
+      "text": "line13"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§d§r": ""
+    }
+  },
+  "line14": {
+    "team": "line14",
+    "name": {
+      "json": {
+        "text": "line14"
+      },
+      "text": "line14"
+    },
+    "friendlyFire": 3,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "suffix": {
+      "json": {
+        "text": ""
+      },
+      "text": ""
+    },
+    "membersMap": {
+      "§e§r": ""
+    }
+  },
+  "default": {
+    "team": "default",
+    "name": {
+      "json": {
+        "text": "default"
+      },
+      "text": "default"
+    },
+    "friendlyFire": 2,
+    "nameTagVisibility": "always",
+    "collisionRule": "never",
+    "color": "reset",
+    "prefix": {
+      "json": {
+        "color": "gray",
+        "text": ""
+      },
+      "text": "",
+      "color": "gray"
+    },
+    "suffix": {
+      "json": {
+        "strikethrough": false,
+        "obfuscated": false,
+        "underlined": false,
+        "italic": false,
+        "color": "reset",
+        "bold": false,
+        "text": ""
+      },
+      "text": "",
+      "bold": false,
+      "italic": false,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false,
+      "color": null,
+      "reset": true
+    },
+    "membersMap": {}
+  }
+}

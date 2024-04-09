@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "fs": "^0.0.1-security",
     "minecraft-data": "^3.64.1",
     "mineflayer": "^4.20.0",
     "mineflayer-armor-manager": "^2.0.1",

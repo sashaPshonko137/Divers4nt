@@ -6,13 +6,15 @@ const inventoryViewer = require("mineflayer-web-inventory");
 const options = require("./options");
 const { autototem } = require("mineflayer-auto-totem");
 const { pathfinder, Movements, goals } = require("mineflayer-pathfinder");
-const minecraftData = require("minecraft-data");
 const GoalBlock = goals.GoalBlock;
 const pvp = require('mineflayer-pvp').plugin
 const armorManager = require('mineflayer-armor-manager') 
+const {friends} = require("./friends") 
+
 
 
 const DIVERS4NT = mineflayer.createBot(options);
+
 
 DIVERS4NT.loadPlugin(autototem);
 DIVERS4NT.loadPlugin(pathfinder);
@@ -23,7 +25,7 @@ DIVERS4NT.once("login", async () => {
   mineflayerViewer(DIVERS4NT, {
     port: 3001,
     firstPerson: true,
-    viewDistance: "25",
+    viewDistance: "20",
   });
   //inventoryViewer(DIVERS4NT);
   console.log("DIVERS4NT успешно проник на сервер.");
@@ -78,7 +80,7 @@ DIVERS4NT.on("windowOpen", async () => {
         console.log(3);
         await new Promise((resolve) =>
           setTimeout(async () => {
-            await DIVERS4NT.clickWindow(10, 0, 0);
+            await DIVERS4NT.clickWindow(13, 0, 0);
             counter++;
             resolve();
           }, 1000)
@@ -86,10 +88,10 @@ DIVERS4NT.on("windowOpen", async () => {
         break;
       //ОТКРЫТО МЕНЮ ВЫБОРА АРЕНЫ BedWars
       case 3:
-        //playSound.play("./sounds/Divers4nt_came.wav");
+        playSound.play("./sounds/Divers4nt_came.wav");
         await new Promise((resolve) =>
           setTimeout(async () => {
-            await DIVERS4NT.clickWindow(10, 0, 0);
+            await DIVERS4NT.clickWindow(13, 0, 0);
             await new Promise((resolve) =>
               setTimeout(async () => {
                 await DIVERS4NT.setQuickBarSlot(0);
@@ -114,11 +116,11 @@ DIVERS4NT.on("windowOpen", async () => {
   console.log(4);
   await new Promise((resolve) =>
     setTimeout(async () => {
-      await DIVERS4NT.clickWindow(12, 0, 0);
+      await DIVERS4NT.clickWindow(13, 0, 0);
       await DIVERS4NT.setQuickBarSlot(6);
       await DIVERS4NT.activateItem();
       resolve();
-    }, 1000)
+    }, 3000)
   );
   counter++;
   break;
@@ -127,9 +129,9 @@ DIVERS4NT.on("windowOpen", async () => {
     console.log(5);
     await new Promise((resolve) =>
       setTimeout(async () => {
-        await DIVERS4NT.clickWindow(13, 0, 0);
+        await DIVERS4NT.clickWindow(12, 0, 0);
         resolve();
-      }, 3000)
+      }, 1000)
     );
     await DIVERS4NT.setQuickBarSlot(0);
     counter++;
@@ -139,6 +141,38 @@ DIVERS4NT.on("windowOpen", async () => {
     console.error("Error in windowOpen event handler:", error);
   }
 });
+
+
+
+async function clickAndProceed(slot) {
+  await DIVERS4NT.clickWindow(slot, 0, 0);
+}
+
+async function clickAndWait(slot, delay) {
+  await DIVERS4NT.clickWindow(slot, 0, 0);
+  await delayPromise(delay);
+}
+
+async function setSlotAndWait(slot, delay) {
+  await DIVERS4NT.setQuickBarSlot(slot);
+  await delayPromise(delay);
+}
+
+async function activateItemAndWait(delay) {
+  await DIVERS4NT.activateItem();
+  await delayPromise(delay);
+}
+
+async function sequenceOfActions(actions) {
+  for (const action of actions) {
+    await action();
+  }
+}
+
+function delayPromise(delay) {
+  return new Promise(resolve => setTimeout(resolve, delay));
+}
+
 
 Bed = null;
 
@@ -159,12 +193,12 @@ DIVERS4NT.on("chat", async (username, message) => {
       await DIVERS4NT.chat(
         "!МЕНЯ ЗОВУТ DIVERS4NT. Я РАЗРАБОТАН УМНЕЙШИМ БЭКЕНДЕРОМ ZEVSOID`OM137, ЧТОБЫ  РУИНИТЬ ИГРУ ТИММЕЙТАМ. МОЖЕТЕ МЕНЯ ЗАСТРОИТЬ, НО СКОРО Я НАУЧУСЬ РАСКАПЫВАТЬ БЛОКИ ВОКРУГ КРОВАТИ."
       );
-      const teams = Object.values(DIVERS4NT.teams);
-      teams.forEach((team) => console.log(team.members))
+      let teams = Object.values(DIVERS4NT.teams);
+      teams = teams.filter((team) => team.members.includes('DIVERS4NT'))
       await findBed();
       setTimeout(() => {
 
-        setInterval(() => killAura(), 300)
+        setInterval(() => killAura(teams), 500)
 
       },3000);
     }, 4000);
@@ -179,6 +213,7 @@ DIVERS4NT.on("end", async () => {
 DIVERS4NT.on("physicsTick", async () => {
   DIVERS4NT.autototem.equip();
 });
+
 
 async function findBed() {
   const mcData = require("minecraft-data")(DIVERS4NT.version);
@@ -199,16 +234,22 @@ async function findBed() {
   DIVERS4NT.pathfinder.setGoal(goal);
 }
 
-function killAura() {
-  const player = DIVERS4NT.nearestEntity(entity => !friends.includes(entity.username) && entity.username);
+function killAura(teams) {
+  const player = DIVERS4NT.nearestEntity(entity => !friends.includes(entity.username) && entity.username && (!teams.includes(entity.username)) && entity.type === 'player' && JSON.stringify(Object.values(entity.effects)) !== JSON.stringify(Object.values({
+    "5": { "id": 5, "amplifier": 1, "duration": 109 },
+    "14": { "id": 14, "amplifier": 1, "duration": 32767 }
+  })));
+
   if (player) {
-    const pos = player.position;
-      DIVERS4NT.lookAt(pos, true, () => {
-      DIVERS4NT.attack(player);
-    });
+    const pos = player.position.offset(0, player.height, 0);
+    //DIVERS4NT.lookAt(pos, true, () => {              
+    DIVERS4NT.attack(player);
+    //});
   }
 }
 
+//!friends.includes(entity.username) &&
 
+//SCUM_Bloodlust_
 
-const friends = ['zevsoid137', 'dadaf0n228', 'ksushkaEGG', 'ShDVR'];
+//sh0ketsu
